@@ -3,7 +3,6 @@
 
 What things you need to install the software and how to install them
 
-- https://github.com/Mobius1/bulletin 
 - https://github.com/ThymonA/menuv
 - https://github.com/Andyyy7666/WeaponAnimationMenuV2
 
