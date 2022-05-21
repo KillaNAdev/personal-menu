@@ -12,7 +12,6 @@ ESX = nil
     
 
 
-local prevVehicle = nil
 local menu = MenuV:CreateMenu(' ', 'Personal Menu', 'topcenter', 30, 144, 255, 'size-150', 'default', 'menuv', 'default')
 local menu1 = MenuV:CreateMenu(' ', 'Misc Options', 'topcenter', 30, 144, 255,'size-150', 'default')
 local menu2 = MenuV:CreateMenu(' ', 'Report Options', 'topcenter', 30, 144, 255,'size-150', 'default')
