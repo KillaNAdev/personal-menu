@@ -3,13 +3,7 @@ p = print
 p("[KN]: Script Loaded. \n\n[KN]: https://discord.gg/t3d5qCVgjW")
 ESX = nil
     
-    CreateThread(function()
-        while ESX == nil do
-            TriggerEvent('esx:getSharedObject', function(obj)ESX = obj end)
-            Citizen.Wait(1500)
-        end
-    end)
-    
+   
 
 
 local menu = MenuV:CreateMenu(' ', 'Personal Menu', 'topcenter', 30, 144, 255, 'size-150', 'default', 'menuv', 'default')
